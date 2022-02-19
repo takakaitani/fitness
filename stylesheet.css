@@ -1,0 +1,142 @@
+.header {
+   width: 1686px;
+   height: 270px;
+  }
+  
+  .header img{
+    width: 1686px;
+    height: 270px;
+    position: absolute;
+    top:0;
+    left:0;
+    z-index: 0;
+    opacity: 0.5;
+  }
+
+  .header-logo {
+    background-color: rgba(175, 35, 35, 0.5);
+    z-index: 1;
+    height: 90px;
+    width: 1686px;
+    position: absolute;
+    top: 90px;
+    left: 0;
+  }
+
+  .header-logo h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+  }
+
+  .menu {
+    padding-top: 40px;
+  }
+
+  .text {
+    position: absolute;
+    top: 260px;
+    left: 20px;
+  }
+
+  .text h3, h4{
+    font-weight: lighter;
+  }
+
+  .menu img{
+    width: 902px;
+    height: 712px;
+    position: absolute;
+    top: 360px;
+    left: 392px;
+    margin: 0 auto;
+  }
+
+  .menu-chest {
+    position: absolute;
+    top: 360px;
+    left: 0;
+    height: 712px;
+    width: 392px;
+  }
+
+  
+
+  .menu-back {
+    position: absolute;
+    top: 360px;
+    left: 1294px;
+    height: 712px;
+    width: 392px;
+  }
+
+
+
+  .btn {
+    font-size: 25px;
+    color: #d20000;
+  }
+
+  .btn:hover {
+    border-bottom: none;
+    color: blue;
+  }
+
+  .daikyo {
+    position: absolute;
+    top: 58px;
+    left: 317px;
+  }
+
+  .sankaku {
+    position: absolute;
+    top: 125px;
+    left: 317px;
+  }
+
+  .jowan2to {
+    position: absolute;
+    top: 194px;
+    left: 267px;
+  }
+
+  .fukuchoku {
+    position: absolute;
+    top: 263px;
+    left: 317px;
+  }
+
+  .daitai4to {
+    position: absolute;
+    top: 400px;
+    left: 267px;
+  }
+
+  .sobo {
+    position: absolute;
+    top: 88px;
+  }
+
+  .jowan3to {
+    position: absolute;
+    top: 189px;
+  }
+
+  .kohai {
+    position: absolute;
+    top: 268px;
+  }
+
+  .daiden {
+    position: absolute;
+    top: 350px;
+  }
+
+  .daitai2to {
+    position: absolute;
+    top: 437px;
+  }
+
+  .katai3to {
+    position: absolute;
+    top: 553px;
+  }
